@@ -1,0 +1,40 @@
+# requirements.txt
+# https://stackoverflow.com/questions/17912307/u-ufeff-in-python-string
+arviz
+black 
+coverage
+dask[complete]
+datashader 
+fiona
+flake8
+folium
+geopandas 
+geopy
+geoviews 
+graphviz
+holoviews  
+imbalanced-learn
+isort 
+jupyterlab_code_formatter 
+keras
+matplotlib
+numpy
+pandas
+pycrs
+pylint
+pymc3
+pytest
+pytest-cov
+PyYAML
+quantities
+requests
+rtree
+scikit-learn
+scipy
+seaborn
+shapely
+# signal
+tensorflow
+theano
+xlrd
+yellowbrick
